@@ -4,7 +4,7 @@
 
 #-------------------------------------------
 #
-# pillows - a save-the-world arcade game (Code only)
+# pillows - a save-the-world arcade game (Code only) 
 #Copyright (C) 2007  Chris Hopp  (http://fydo.net)
 #
 #This program is free software; you can redistribute it and/or
